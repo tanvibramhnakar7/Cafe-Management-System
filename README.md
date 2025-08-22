@@ -1,5 +1,4 @@
 # Cafe-Management-System
-# Cafe-Management-System
 # ☕ Cafe Management System (Python)
 
 This is a *beginner-friendly Python project* — a simple Cafe Management System for managing customer orders.
